@@ -148,7 +148,7 @@ section.vanguard ._container>div {
     max-width: 50%;
 }
 
-section.vanguard div.text-wrapper {
+section.vanguard div.text-container {
     display: inline-block;
     color: #ffffff;
 }
@@ -159,7 +159,7 @@ section.vanguard .liner {
     width: 15rem;
 }
 
-section.vanguard div.text-wrapper p {
+section.vanguard div.text-container p {
     display: inline-block;
     font-size: 1rem;
     line-height: 1.5rem;
