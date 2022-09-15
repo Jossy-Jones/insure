@@ -294,7 +294,7 @@ footer .details ul{
 
 
 /* Media Queries */
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1020px) {
     .menu-btn{
         display: inline-block;
     }
